@@ -1,6 +1,3 @@
-function addition(a,b){
-    let sum = (a+b)
-    return sum
-}
+const addition = (a, b) => a + b
 
-addition(2,5)
+addition(2, 5)
